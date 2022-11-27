@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: "Home"
 ---
 
-I am Max. Hello Hello.
+I am a senior undergraduate student major in Applied Mathematics at Columbia University in the City of New York. 
 
-I' nsiugiusig bdjigdjfgk odngosjnd
+Previously I was 
+
+My research interest 
