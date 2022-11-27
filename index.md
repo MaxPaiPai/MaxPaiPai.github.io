@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: ""
 ---
 
 I am a senior undergraduate student major in Applied Mathematics at Columbia University in the City of New York. I also have a background in pure mathematics, computer science, and physics. 
