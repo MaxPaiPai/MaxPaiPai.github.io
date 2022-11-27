@@ -1,5 +1,5 @@
 ---
-title: "Adaptive DG method"
+title: "Adaptive DG Method"
 layout: post
 ---
 
