@@ -2,7 +2,7 @@ title: "Jinpai (Max) Zhao"
 author: "Max Zhao"
 description: "Columbia Univerity, New York"
 permalink: /:title/
-lang: "en"
+lang: "en" 
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
