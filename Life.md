@@ -4,7 +4,7 @@ title: ""
 ---
 
 ## Basketball:
-![dunk](dunk.JPG)
+![dunk](dunk.png)
 
 
 ## Nature Lover:
