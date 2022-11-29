@@ -23,7 +23,7 @@ Fun fact: My home was 30 seconds' walk from the sea, so I have a particular obse
 
 ## Bartending:
 
-This is the cloest I can get to be a great chemist. (Just kidding. My pina colada actually tastes good)
+This is the closest I can get to be a wizard. (Just kidding. My pina colada actually tastes good)
 
 <img src="/pina.png" width="300"/>
 
