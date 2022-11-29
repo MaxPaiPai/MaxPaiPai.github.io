@@ -13,7 +13,8 @@ If I am not in front of my computer doing math or writing code, the best place t
 
 
 ## Nature Lover:
-Hello Hello Hello
+
+<img src="/nature.png" width="300"/>
 
 
 ## Bartending:
